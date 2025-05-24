@@ -1225,7 +1225,7 @@ const KaustubhPortfolio = () => {
               </a>
 
               <a
-                href="https://linkedin.com/in/kaustubh-pardeshi"
+                href="https://www.linkedin.com/in/kaustubh-pardeshi-81787b259/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative bg-gradient-to-r from-[#64748b] to-[#475569] text-white px-8 py-4 border-4 border-[#e2e8f0] rounded-2xl font-bold hover:shadow-[8px_8px_0px_0px_rgba(100,116,139,1)] transition-all duration-300 transform hover:-translate-x-2 hover:-translate-y-2 flex items-center"
@@ -1235,7 +1235,7 @@ const KaustubhPortfolio = () => {
               </a>
 
               <a
-                href="https://twitter.com/kaustubh404"
+                href="https://twitter.com/flackk_"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative bg-gradient-to-r from-[#475569] to-[#334155] text-white px-8 py-4 border-4 border-[#e2e8f0] rounded-2xl font-bold hover:shadow-[8px_8px_0px_0px_rgba(100,116,139,1)] transition-all duration-300 transform hover:-translate-x-2 hover:-translate-y-2 flex items-center"
@@ -1557,7 +1557,7 @@ const KaustubhPortfolio = () => {
             </a>
 
             <a
-              href="https://linkedin.com/in/kaustubh-pardeshi"
+              href="https://www.linkedin.com/in/kaustubh-pardeshi-81787b259/"
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-gradient-to-br from-[#64748b] to-[#475569] text-white p-6 rounded-2xl hover:shadow-[8px_8px_0px_0px_rgba(100,116,139,1)] transition-all duration-300 transform hover:-translate-x-2 hover:-translate-y-2 border-4 border-[#e2e8f0]"
@@ -1566,7 +1566,7 @@ const KaustubhPortfolio = () => {
             </a>
 
             <a
-              href="https://twitter.com/kaustubh404"
+              href="https://twitter.com/flackk_"
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-gradient-to-br from-[#475569] to-[#334155] text-white p-6 rounded-2xl hover:shadow-[8px_8px_0px_0px_rgba(100,116,139,1)] transition-all duration-300 transform hover:-translate-x-2 hover:-translate-y-2 border-4 border-[#e2e8f0]"
